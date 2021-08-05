@@ -3,3 +3,18 @@ title: "Final Project Notebook"
 output: html_notebook
 ---
 
+Load the `tidyverse`
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+
+load the `dataset`
+
+```{r}
+summer_hits_URL <- "https://raw.githubusercontent.com/reisanar/datasets/master/BB_top100_2015.csv"
+summer_hits <- read.csv(summer_hits_URL)
+summer_hits
+```
+
