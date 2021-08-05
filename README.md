@@ -1,6 +1,8 @@
 # Final_Project
 
-This is the repo for Victoria Cinquepalmi and Maggie Julian's final project for Intro to Data Science. We will be evaluating the data for Billboard Summer Hits from 1958 to 2017. 
+This is the repo for Victoria Cinquepalmi (vcinquepalmi1665@floridapoly.edu) and Maggie Julian's (mjulian1681@floridapoly.edu) final project for Intro to Data Science. We will be evaluating the data for Billboard Hits from 2015. 
+
+link: https://raw.githubusercontent.com/reisanar/datasets/master/BB_top100_2015.csv
 
 BASIC THINGS WE NEED
 ├── data/all_billboard_summer_hits.csv  # data folder
