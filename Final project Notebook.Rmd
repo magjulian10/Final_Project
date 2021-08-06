@@ -48,12 +48,11 @@ bb2015
 Merging the data:
 
 ```{r}
-mashedata <-cbind(summer, bb2015, by=c("artist_name", "artist"
-``` 
-
-
-
-
+joined <- merge(summer_hits, bb2015,
+              by.x = "Artist", by.y = "artist_name", 
+              all.x = TRUE, all.y = FALSE)
+joined
+```
 
 
 
