@@ -1,9 +1,12 @@
 # Final_Project
 
-This is the repo for Victoria Cinquepalmi and Maggie Julian's final project for Intro to Data Science. We will be evaluating the data for Billboard Summer Hits from 1958 to 2017. 
+##This is the repo for Victoria Cinquepalmi and Maggie Julian's final project for Intro to Data Science. We will be evaluating the data for Billboard Summer Hits from 1958 to 2017. 
 
-BASIC THINGS WE NEED
-├── data/all_billboard_summer_hits.csv  # data folder
+
+ data <- all_billboard_summer_hits.csv  # data folder
+
+
+
 │   ├── README.md   # data description and link to source
 ├── proposal/       # proposal folder
 │   ├── ideas.Rmd   # RMarkdown file with proposal for project
