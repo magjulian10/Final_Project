@@ -54,6 +54,12 @@ joined <- merge(summer_hits, bb2015,
 joined
 ```
 
+```{r}
+joined %>%
+  group_by("Artist") %>%
+  arrange(desc("Rank"))
+```
+
 
 
 
